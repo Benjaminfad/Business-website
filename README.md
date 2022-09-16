@@ -1,2 +1,2 @@
 # Business-website
-A platform that brings business enthusiast together
+A platform that brings business enthusiasts together
